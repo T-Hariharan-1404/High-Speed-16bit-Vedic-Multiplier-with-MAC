@@ -37,7 +37,7 @@ Where:
 
 ---
 
-## 🧪 Test Cases
+##  Test Cases
 
 The following test cases were used to verify signed multiplication functionality.
 
