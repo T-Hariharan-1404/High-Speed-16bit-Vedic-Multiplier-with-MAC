@@ -65,7 +65,7 @@ a = -16'd2; b = 16'd6; #20;
 
 ---
 
-## 🔄 Accumulator Reset Verification
+##  Accumulator Reset Verification
 
 ```verilog
 acc_clr = 1;
@@ -78,7 +78,7 @@ This test verifies that the accumulator is properly cleared and resumes normal o
 
 ---
 
-## 🎲 Randomized Testing
+##  Randomized Testing
 
 To further validate the design, random input combinations were applied.
 
@@ -94,7 +94,7 @@ Random testing helps ensure correct operation across a broad range of signed inp
 
 ---
 
-## ⚙️ Simulation Procedure
+##  Simulation Procedure
 
 1. Apply Reset
 2. Enable Accumulation
@@ -106,7 +106,7 @@ Random testing helps ensure correct operation across a broad range of signed inp
 
 ---
 
-## 📊 Applications
+##  Applications
 
 - Digital Signal Processing (DSP)
 - FIR Filters
@@ -119,14 +119,14 @@ Random testing helps ensure correct operation across a broad range of signed inp
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Verilog HDL
 - ModelSim
 
 ---
 
-## 🚀 Advantages of Vedic Multiplication
+##  Advantages of Vedic Multiplication
 
 - Faster Multiplication
 - Reduced Propagation Delay
@@ -137,7 +137,7 @@ Random testing helps ensure correct operation across a broad range of signed inp
 
 ---
 
-## 📚 Algorithm Used
+##  Algorithm Used
 
 ### Urdhva Tiryakbhyam (Vertical and Crosswise)
 
